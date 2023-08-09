@@ -2,7 +2,7 @@
 Javascript template for Obsidian's Templater that automatically creates stubs for days,  month and years.
 
 ## Requirements
-- [Templater|50%](https://github.com/SilentVoid13/Templater)
+- [Templater](https://github.com/SilentVoid13/Templater){: width="50%"}
 
 ## Year view
 
