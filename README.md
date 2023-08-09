@@ -4,3 +4,10 @@ Javascript template for Obsidian's Templater that automatically creates stubs fo
 ## Requirements
 - [Templater](https://github.com/SilentVoid13/Templater)
 
+## Year view
+
+
+
+## Month view
+
+## Day view
