@@ -6,7 +6,7 @@ Javascript template for Obsidian's Templater that automatically creates stubs fo
 
 ## Year view
 
-![year|200px](https://raw.githubusercontent.com/barabasz/obsidian-journal/main/year.png){: width="50%"}
+<img src="[https://your-image-url.type](https://raw.githubusercontent.com/barabasz/obsidian-journal/main/year.png)" width="300">
 
 ## Month view
 
