@@ -3,6 +3,7 @@ Javascript template for Obsidian's Templater that automatically creates stubs fo
 
 ## Requirements
 - [Templater](https://github.com/SilentVoid13/Templater)
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 
 ## Year view
 
